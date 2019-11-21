@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Eatme</string>
+    <string name="share_phrase">Hi there, You could make this amazing recipe if you click on the link below. Link to recipe:</string>
+    <string name="query_hint">Eatme</string>
+</resources>
